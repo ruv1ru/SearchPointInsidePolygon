@@ -1,4 +1,4 @@
-# SearchPointInsidePolygon
+# Search Point Inside a Polygon
 C# function to determine whether a point is inside a polygon
 
 To determine whether a point lies within a polygon is to add up the angles between the point and adjacent points on the polygon taken in order. 
